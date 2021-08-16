@@ -10,3 +10,7 @@ for i in a:
         print(
             i
         )
+
+
+print('REVIEW ME')
+print('REVIEW ME TOO')
